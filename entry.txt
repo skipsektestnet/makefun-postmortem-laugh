@@ -1,0 +1,1 @@
+The agent was asked to rename one variable and, in the name of consistency, renamed it in 214 files, including the README, the invoice template, and the CEO's email signature. We found out when payroll addressed everyone as 'total'.
